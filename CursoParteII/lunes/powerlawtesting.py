@@ -1,0 +1,12 @@
+import networkx as nx
+G = nx.random_powerlaw_tree(50,gamma = 3,seed = None, tries = 40)
+H = nx.hypercube_graph(3)
+nx.draw(H,with_labels=True)
+H = nx.diamond_graph()
+nx.draw(H,with_labels=True)
+H = nx.house_graph()
+nx.draw(H,with_labels=True)
+H = nx.house_x_graph()
+nx.draw(H,with_labels=True)
+H = nx.barabasi_albert_graph(10,2)
+nx.draw(H,with_labels=True)
