@@ -8,9 +8,9 @@ user = {
 	"Dan":
 	{"Moderatto":3.0, "Caifanes":4.0, "La Ley":4.5, "Soda Stereo":3.0, "Tierra santa": 4.5, "Rata Banca":4.5, "Mago de Oz":2.0}, 
 	"Hailey":
-	{Caifanes":4.0, "La Ley":1.0,  "Tierra santa": 4.0, "Rata Banca":4.0, "Mago de Oz":1.0}, 
+	{"Caifanes":4.0, "La Ley":1.0,  "Tierra santa": 4.0, "Rata Banca":4.0, "Mago de Oz":1.0}, 
 	"Jordyn":
-	{Caifanes":4.5, "La Ley":4.0,  "Heroes del silencio":5.0, "Tierra santa": 4.5, "Rata Banca":4.0, "Mago de Oz":4.0}, 
+	{"Caifanes":4.5, "La Ley":4.0,  "Heroes del silencio":5.0, "Tierra santa": 4.5, "Rata Banca":4.0, "Mago de Oz":4.0}, 
 	"Sam": 
 	{"Moderatto":5.0, "Caifanes":2.0, "Heroes del silencio":3.0,"Soda Stereo":5.0, "Tierra santa": 4.0, "Rata Banca":5.0},
 	"Veronica": 
